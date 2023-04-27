@@ -11,7 +11,7 @@
 
 
 S = int(input('Введите количество журавликов: '))
-Kate = int(round(S*0.667, 0))
+k = int(round(S*0.667, 0))
 b = int(round(S*0.167, 0))
 
 print(f'Журавликов у Кати {k}')
